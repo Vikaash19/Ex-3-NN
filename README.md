@@ -104,6 +104,7 @@ predict(w1,w2,test)
 test=np.array([[1],[1]])
 predict(w1,w2,test)
 ```
+
 <H3>Output:</H3>
 <H4>Loss Curve:</H4>
 <img width="752" height="551" alt="Loss curve" src="https://github.com/user-attachments/assets/0945df05-1b28-4abd-adf1-e3d9263667d0" />
